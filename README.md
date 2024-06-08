@@ -55,9 +55,6 @@ This project has the following dependencies:
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request. Please adhere to the code of conduct and follow the contribution guidelines.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
